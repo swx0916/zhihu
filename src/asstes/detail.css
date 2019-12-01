@@ -1,0 +1,84 @@
+.detail{
+    position: relative;
+}
+.topBox{
+    height: 0.6rem;
+    background: #1876d0;
+}
+.top{
+    height: 1.17rem;
+    background: #00a2ed;
+    padding:0.36rem  0.39rem 0.36rem;
+}
+.top img{
+    /*vertical-align: middle;*/
+    height: 0.4rem;
+}
+.back{
+    margin-right: 0.8rem;
+}
+.imgRight img{
+    margin-right:0.75rem;
+}
+.imgRight span{
+    font-size: 0.32rem;
+    color:#fff;
+    margin-top: -0.1rem;
+}
+.main{
+    position: relative;
+}
+.detail .title{
+    position: absolute;
+    display: block;
+    top:3rem;
+    left:0.2rem;
+    color: #fff;
+    font-size: 0.4rem;
+    line-height: 0.6rem;
+}
+i{
+    position: absolute;
+    right: 0.3rem;
+    top:4rem;
+    font-size: 0.3rem;
+    color: #fff;
+
+}
+.topImg{
+    width: 100%;
+    height: 4.7rem;
+}
+.enjoyDiv{display: none}
+h2{
+    font-size: 0.4rem;
+    line-height: 1.5rem;
+    padding-left: 0.2rem;
+}
+.app{
+    position: absolute;
+    top:3rem;
+    width:85%;
+    margin: 0 -2rem  0 0.5rem;
+    background: #fff;
+    padding-left: 0;
+
+}
+.app li{
+   float: left;
+    margin-bottom: 0.3rem;
+    /*margin-right: 0.72rem;*/
+    text-align: center;
+    width: 32%;
+}
+.app li span{
+    display: block;
+    margin-top: 0.3rem;
+}
+.gray{
+    position: fixed;
+    top:0;
+    width: 100%;
+    background: #333;
+    opacity: 0.5;
+}

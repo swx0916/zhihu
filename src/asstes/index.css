@@ -1,0 +1,153 @@
+.index .topBox{
+    position: fixed;
+    top:0;
+    height: 0.6rem;
+    background: #1876d0;
+    z-index: 99;
+}
+.index .top{
+    width: 7.5rem;
+    position: fixed;
+    top:0.6rem;
+    z-index: 1;
+    height: 1.17rem;
+    background: #00a2ed;
+    padding:0.36rem  0.39rem 0.36rem;
+}
+.top img{
+    vertical-align: top;
+    height: 0.5rem;
+}
+.top .title{
+    font-size: 0.36rem;
+    color:#fff;
+}
+.TopImgsrc{
+    margin-right: 0.75rem;
+}
+.dian{
+    margin-left:0.72rem
+}
+
+.news{
+    position:relative;
+    padding-top: 1.77rem;
+}
+.news a img{
+    height: 4.7rem;
+    width: 100%;
+}
+.imgTitle{
+    display: inline-block;
+    width: 80%;
+    font-size: 0.4rem;
+    color:#fff;
+    position: absolute;
+    bottom:0.5rem;
+    left: 0.4rem;
+    line-height: 0.52rem;
+}
+.allList{
+    position: relative;
+}
+.todayNews{
+    height: 1.07rem;
+    padding-left: 0.35rem;
+    line-height: 1.07rem;
+    font-size: 0.30rem;
+    color:#676767;
+    background: #f3f3f3;
+}
+
+.newsList{
+    padding: 0 0.15rem 0.1rem;
+    background: #f3f3f3;
+
+}
+.newsList li{
+    height:1.83rem;
+    width: 100%;
+    padding: 0.22rem 0.1rem 0;
+    border-radius: 0.2rem;
+    background: #fff;
+    margin-bottom: 0.15rem;
+    box-shadow: 2px 5px 5px #d8d8d8;
+}
+.newsList li h2{
+    width: 65%;
+    line-height: 0.46rem;
+    font-size: 0.32rem;
+    letter-spacing: 0.015rem;
+    font-weight: normal;
+}
+.imgDiv{
+    width: 30%;
+    height: 1.5rem;
+    background: pink;
+    margin-left: 0.2rem;
+}
+.imgDiv img{
+    width: 100%;
+    height: 1.5rem;
+}
+.my-drawer {
+    position: relative;
+    overflow: auto;
+    -webkit-overflow-scrolling: touch;
+}
+.my-drawer .am-drawer-sidebar {
+    background-color: #fff;
+    overflow: auto;
+    -webkit-overflow-scrolling: touch;
+}
+.my-drawer .am-drawer-sidebar .am-list {
+    width: 250px;
+    padding: 0;
+}
+.login{
+    padding-top: 0.6rem;
+}
+.info{
+    height: 2.3rem;
+    background: #00a2ed;
+    padding:0.2rem 0 0 0.35rem;
+    z-index: 10000;
+}
+.userImg img{
+    width: 0.7rem;
+    height: 0.7rem;
+    border-radius: 50%;
+    background: pink;
+    margin-right: 0.3rem;
+}
+.userImg span{
+    color:#fff;
+    font-size: 0.4rem;
+}
+.down{
+    padding-top:0.7rem;
+
+}
+.down span{
+    margin-right: 0.4rem;
+color:#fff;
+    font-size: 0.24rem;
+
+}
+.down span svg{
+    vertical-align: middle;
+}
+.indexgrey{
+    background: #f0f0f0;
+    height: 1.05rem;
+    padding-left:0.45rem;
+
+}
+.indexgrey svg{
+    margin-top: 0.35rem;
+    margin-right: 0.5em;
+    vertical-align: bottom;
+}
+.indexgrey span{
+    color:#00a2ed;
+}
